@@ -1,0 +1,12 @@
+* text eol=lf
+
+*.c text
+*.cpp text
+*.h text
+*.hpp text
+*.txt text
+*.py text
+
+
+*.png binary
+*.jpg binary
